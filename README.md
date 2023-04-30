@@ -7,8 +7,12 @@ Classes and Objects,
 <br>
 Inheritance,
 <br>
-File Handling with Objects, 
-ArrayList, 
-Implementing Interface, 
-User defined exception and 
+File Handling with Objects,
+<br>
+ArrayList,
+<br>
+Implementing Interface,
+<br>
+User defined exception and
+<br>
 Exception handling.
