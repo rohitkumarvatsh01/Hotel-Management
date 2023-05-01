@@ -3,16 +3,16 @@ This is a Hotel Management tool which can be used to manage activites like stori
 
 Topics Covered-
 <br>
-Classes and Objects,
+<li>Classes and Objects,
 <br>
-Inheritance,
+<li>Inheritance,
 <br>
-File Handling with Objects,
+<li>File Handling with Objects,
 <br>
-ArrayList,
+<li>ArrayList,
 <br>
-Implementing Interface,
+<li>Implementing Interface,
 <br>
-User defined exception and
+<li>User defined exception and
 <br>
-Exception handling.
+<li>Exception handling.
